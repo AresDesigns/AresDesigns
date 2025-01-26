@@ -12,6 +12,7 @@ Ayudo a las empresas a crear de forma rápida y eficiente sistemas extensibles d
 
 
 <h3>Herramientas que uso</h3>
+<hr>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%233607F7&size=28&center=true&lines=React.js;Flutter;Next.js;Gatsby.js;.NET+Core;Nest.js"/>
 </p>
@@ -40,4 +41,7 @@ Ayudo a las empresas a crear de forma rápida y eficiente sistemas extensibles d
 </p>
   
 <h3>Contactamé</h3>
-Email: <a href="mailto:elrincondearescontacto@gmail.com">elrincondearescontacto@gmail.com</a>
+<hr>
+<ul>
+  <li>Email: <a href="mailto:elrincondearescontacto@gmail.com">elrincondearescontacto@gmail.com</a></li>
+</ul>
