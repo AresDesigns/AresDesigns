@@ -16,7 +16,7 @@ Ayudo a las empresas a crear de forma rápida y eficiente sistemas extensibles d
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%233607F7&size=28&center=true&lines=React.js;Flutter;Next.js;Gatsby.js;.NET+Core;Nest.js"/>
 </p>
-<p>
+<p align="center">
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-42A5F5?style=flat-square&logo=flutter&logoColor=white" /> 
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-2C83FC?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
